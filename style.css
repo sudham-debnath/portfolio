@@ -126,6 +126,12 @@ nav ul li a:hover{
 
 .main-text p{
     color: #747474;
+	text-align: justify;
+}
+
+.main-text-btn{
+	display: flex;
+	justify-content: space-between;
 }
 
 .portfolio-btn{
@@ -136,7 +142,7 @@ nav ul li a:hover{
     align-items: center;
     color: #FFFFFF;
     background-color: #1db096;
-    border-radius: 20px;
+    border-radius: 10px;
     box-shadow: 4px 10px 30px rgba(24,139,119,0.2);
 }
 
@@ -289,7 +295,7 @@ nav ul li a:hover{
     align-items: center;
     color: #FFFFFF;
     background-color: #1db096;
-    border-radius: 20px;
+    border-radius: 10px;
     box-shadow: 4px 10px 30px rgba(24,139,119,0.2);
 }
 
@@ -456,7 +462,7 @@ nav ul li a:hover{
 	background-color:#FFFFFF;
 	display:flex;
 	justify-content: center;
-	border-radius: 50px;
+	border-radius: 10px;
 	box-shadow: 2px 2px 30px rgba(0,0,0,0.15);
 }
 
@@ -479,7 +485,7 @@ nav ul li a:hover{
 	justify-content: center;
 	align-items: center;
 	margin: auto 10px;
-	border-radius: 20px;
+	border-radius: 10px;
 	font-weight: 500;
 }
 
